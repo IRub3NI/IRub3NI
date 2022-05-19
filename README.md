@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IRub3NI
-- 👀 I’m interested in ... intershp projects, where i can participate to learn something new
-- 🌱 I’m currently learning ... Python/QA Engineering
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... its simple, ruben.torosyan93@gmail.com is my e-mail and I will answer within few hours if you reach me)))
+- 👀 I’m interested in Automation projects using C# and Python, where i can participate to learn something new
+- 🌱 I’m currently working as Python/C# QA Automation Engineer
+
 
 <!---
 IRub3NI/IRub3NI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
