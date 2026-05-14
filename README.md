@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @IRub3NI
-- 👀 I’m interested in Automation projects using C# and Python, where i can participate to learn something new
-- 🌱 I’m currently working as Python/C# QA Automation Engineer
 
 
 <!---
